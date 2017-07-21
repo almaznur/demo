@@ -1,0 +1,3 @@
+Content chaos results when documents are stored in multiple places—on laptops and USB sticks, in email and network drives, and across various file-sharing sites. These content siloes are a drain on business productivity and increase security risks.
+
+Alfresco’s document management solution brings company content under control. Important files—like legal contracts, marketing assets and engineering documents—are easily found, shared and secured. What’s more, Alfresco maximizes the value of content by integrating it into core business processes. Information flows to the right person, at the right time, in the applications and devices people use to get their jobs done.
